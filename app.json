@@ -1,0 +1,39 @@
+{
+  "expo": {
+    "name": "blockbank",
+    "slug": "blockbank",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "versionCode": 1,
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.mynger.blockbank",
+      "edgeToEdgeEnabled": false
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "owner": "mynger",
+    "extra": {
+      "eas": {
+        "projectId": "bf8a65f1-f189-4518-9fe5-78f29dd2858f"
+      }
+    }
+  }
+}
