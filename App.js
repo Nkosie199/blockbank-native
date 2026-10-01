@@ -7,7 +7,7 @@ export default function App() {
     return (
       <View style={styles.container}>
         <iframe
-          src="https://main.d2c13zprpxqkpa.amplifyapp.com/"
+          src="https://blockbank.mynger.com/"
           style={styles.iframe}
           title="BlockBank"
         />
@@ -17,7 +17,7 @@ export default function App() {
 
   return (
     <WebView
-      source={{ uri: "https://main.d2c13zprpxqkpa.amplifyapp.com/" }}
+      source={{ uri: "https://blockbank.mynger.com/" }}
       style={styles.container}
     />
   );
