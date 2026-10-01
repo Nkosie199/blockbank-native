@@ -23,8 +23,7 @@
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "package": "com.mynger.blockbank",
-      "edgeToEdgeEnabled": false
+      "package": "com.mynger.blockbank"
     },
     "web": {
       "favicon": "./assets/favicon.png"
